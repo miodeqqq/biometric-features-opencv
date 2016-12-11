@@ -1,0 +1,2 @@
+cp /usr/local/Cellar/opencv/2.4.13/lib/python2.7/site-packages/cv2.so /Users/miodeq/Desktop/Projects/BiometricFeaturesOpenCV/env/lib/python2.7/site-packages/
+cp /usr/local/Cellar/opencv/2.4.13/lib/python2.7/site-packages/cv.py /Users/miodeq/Desktop/Projects/BiometricFeaturesOpenCV/env/lib/python2.7/site-packages/
