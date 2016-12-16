@@ -106,3 +106,4 @@ ENV/
 
 images_features/eyes_found_directory/
 images_features/faces_found_directory
+camera_features/camera_images/

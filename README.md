@@ -27,6 +27,8 @@ Release date: 11.12.2016
 ./video_capture.py
 ```
 
+To quit window press **`S`**, to make a picture press **`P`**
+
 **Face detection:**
 ```
 ./face_detect.py
